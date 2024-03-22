@@ -1,0 +1,3 @@
+[submodule "array-ds"]
+	path = array-ds
+	url = https://github.com/cornfrog/array-ds
