@@ -1,3 +1,6 @@
 [submodule "array-ds"]
 	path = array-ds
 	url = https://github.com/cornfrog/array-ds
+[submodule "static-array"]
+	path = static-array
+	url = https://github.com/cornfrog/ts-static-array
